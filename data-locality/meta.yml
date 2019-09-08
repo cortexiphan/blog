@@ -1,0 +1,6 @@
+title: Data Locality
+short: "这其实是《Game Programming Patterns》中的一篇文章,它主要讲述了数据在内存中的布局是如何影响CPU缓存，进而让程序性能产生巨大变化的。"
+date: 17.07.2014
+tags:
+    - cache
+    - locality
